@@ -47,4 +47,4 @@ The impact of these findings is significant in agricultural technology. While th
 
 ## Acknowledgments
 
-**Authors:** Aarsh Mehta and Nupur Divekar
+**Authors:**  Nupur Divekar and Aarsh Mehta 
